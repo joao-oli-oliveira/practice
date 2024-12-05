@@ -1,0 +1,9 @@
+Basic Calculator
+Develop a calculator function that:
+
+Accepts two numbers and an operator (+, -, \*, /)
+
+Performs the corresponding mathematical operation
+Handles division by zero
+Returns the result of the calculation
+Includes input validation
